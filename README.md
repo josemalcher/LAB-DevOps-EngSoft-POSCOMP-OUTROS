@@ -12,6 +12,7 @@
 | **_0%_** |   [ Git e Github para iniciantes ](#)  | UDEMY  |
 | **_0%_** |   [ Criando Páginas Web com o GitHub Pages ](#)  | UDEMY  |
 | **_0%_** |   [ Controle de versão de Softwares utilizando o GitHub ](#)  | UDEMY  |
+| **_80%_** |  [ Curso Shell Script - Marcos Castro Souza ](https://github.com/josemalcher/shell-script-CursoMarcosCastroSouza)  | UDEMY  |
 
 ------------
 
@@ -36,6 +37,7 @@
 
 | **Status**  | **Nome/Link**  | **Obs.**  |
 |---|---|---|
+| **_1%_** |  [Livro Code Complete 2ed](https://github.com/josemalcher/LIVRO-Code-Complete-2ed)  | Microsoft |
 | **_0%_** |  [DevOps Na prática - entrega de software confiável e automatizada ](#)  | Casa do Código |
 | **_0%_** |  [Caixa de Ferramentas DevOps - Um guia para construcao, administracao e arquitetura de sistemas modernos](#)  | Casa do Código |
 | **_0%_** |  [eXtreme Programming - Práticas para o dia a dia no desenvolvimento ágil de software](#)  | Casa do Código |
