@@ -38,6 +38,7 @@
 | **Status**  | **Nome/Link**  | **Obs.**  |
 |---|---|---|
 | **_1%_** |  [Livro Code Complete 2ed](https://github.com/josemalcher/LIVRO-Code-Complete-2ed)  | Microsoft |
+| **_1%_** |  [Engenharia de software - Ian Sommerville - 9 edição](https://github.com/josemalcher/Livro-Engenharia-de-software-Ian-Sommerville-9-edicao)  | Ian Sommerville |
 | **_0%_** |  [DevOps Na prática - entrega de software confiável e automatizada ](#)  | Casa do Código |
 | **_0%_** |  [Caixa de Ferramentas DevOps - Um guia para construcao, administracao e arquitetura de sistemas modernos](#)  | Casa do Código |
 | **_0%_** |  [eXtreme Programming - Práticas para o dia a dia no desenvolvimento ágil de software](#)  | Casa do Código |
