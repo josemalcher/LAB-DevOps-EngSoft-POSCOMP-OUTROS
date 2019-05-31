@@ -37,6 +37,8 @@
 
 | **Status**  | **Nome/Link**  | **Obs.**  |
 |---|---|---|
+| **_1%_** |  [Revista - Curso de Shell Script - Papo de Botequim](https://github.com/josemalcher/Curso-de-Shell-Script-Papo-de-Botequim)  | Linux Magazine |
+| **_1%_** |  [Revista - Curso de Shell Script - Papo de Botequim 2.0](https://github.com/josemalcher/Curso-de-Shell-Script-Papo-de-Botequim-2-0)  | Linux Magazine |
 | **_1%_** |  [Livro Code Complete 2ed](https://github.com/josemalcher/LIVRO-Code-Complete-2ed)  | Microsoft |
 | **_1%_** |  [Engenharia de software - Ian Sommerville - 9 edição](https://github.com/josemalcher/Livro-Engenharia-de-software-Ian-Sommerville-9-edicao)  | Ian Sommerville |
 | **_0%_** |  [DevOps Na prática - entrega de software confiável e automatizada ](#)  | Casa do Código |
