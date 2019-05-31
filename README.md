@@ -4,15 +4,15 @@
 
 | **Status**  | **Nome/Link**  | **Obs.**  |
 |---|---|---|
-| **_100%_** | [ Docker: Compreendendo e utilizando  ](https://github.com/josemalcher/udemy-Docker-Compreendendo-e-utilizando)  | UDEMY |
-| **_1%_** |   [ Docker: Ferramenta essencial para Desenvolvedores ](https://github.com/josemalcher/Udemy-Docker-Ferramenta-essencial-para-Desenvolvedores)  | UDEMY |
-| **_0%_** |   [ Controlando versões com Git e GitHub  ](#)  | UDEMY  |
-| **_0%_** |   [ Curso Git e GitHub Ninja ](#)  | UDEMY  |
-| **_0%_** |   [ Git e contribuições para projetos Open Source ](#)  | UDEMY  |
-| **_0%_** |   [ Git e Github para iniciantes ](#)  | UDEMY  |
-| **_0%_** |   [ Criando Páginas Web com o GitHub Pages ](#)  | UDEMY  |
-| **_0%_** |   [ Controle de versão de Softwares utilizando o GitHub ](#)  | UDEMY  |
-| **_80%_** |  [ Curso Shell Script - Marcos Castro Souza ](https://github.com/josemalcher/shell-script-CursoMarcosCastroSouza)  | UDEMY  |
+| **_100%_** |   [ Docker: Compreendendo e utilizando  ](https://github.com/josemalcher/udemy-Docker-Compreendendo-e-utilizando)  | UDEMY |
+| **_100%_** |   [ Docker: Ferramenta essencial para Desenvolvedores ](https://github.com/josemalcher/Udemy-Docker-Ferramenta-essencial-para-Desenvolvedores)  | UDEMY |
+| **_0%_** |     [ Controlando versões com Git e GitHub  ](#)  | UDEMY  |
+| **_0%_** |     [ Curso Git e GitHub Ninja ](#)  | UDEMY  |
+| **_0%_** |     [ Git e contribuições para projetos Open Source ](#)  | UDEMY  |
+| **_0%_** |     [ Git e Github para iniciantes ](#)  | UDEMY  |
+| **_0%_** |     [ Criando Páginas Web com o GitHub Pages ](#)  | UDEMY  |
+| **_0%_** |     [ Controle de versão de Softwares utilizando o GitHub ](#)  | UDEMY  |
+| **_80%_** |    [ Curso Shell Script - Marcos Castro Souza ](https://github.com/josemalcher/shell-script-CursoMarcosCastroSouza)  | UDEMY  |
 
 ------------
 
