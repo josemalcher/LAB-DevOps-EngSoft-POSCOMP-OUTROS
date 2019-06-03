@@ -28,8 +28,10 @@
 
 | **Status**  | **Nome/Link**  | **Obs.**  |
 |---|---|---|
-| **_100%_** | [Desafios/Projetos Práticos de Programação](https://github.com/josemalcher/ListaDeDesafiosProgramacao)  | Projetos Práticos  |
-| **_100%_** | [Lista De Exercícios](https://github.com/josemalcher/ListaDeExerciciosProgramacao)  | Lista de Exercícios  |
+| **_%_** | [Desafios/Projetos Práticos de Programação](https://github.com/josemalcher/ListaDeDesafiosProgramacao)  | Projetos Práticos  |
+| **_%_** | [Lista De Exercícios](https://github.com/josemalcher/ListaDeExerciciosProgramacao)  | Lista de Exercícios  |
+| **_%_** | [App Ideas Collection](https://github.com/josemalcher/app-ideas)  |  florinpop17/app-ideas  |
+| **_%_** | [80 Questões resolvidas JAVA](https://github.com/josemalcher/80QuestoesJava)  |  IFPA  |
 
 ------------
 
