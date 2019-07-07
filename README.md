@@ -32,6 +32,7 @@
 | **_%_** | [Lista De Exercícios](https://github.com/josemalcher/ListaDeExerciciosProgramacao)  | Lista de Exercícios  |
 | **_%_** | [App Ideas Collection](https://github.com/josemalcher/app-ideas)  |  florinpop17/app-ideas  |
 | **_%_** | [80 Questões resolvidas JAVA](https://github.com/josemalcher/80QuestoesJava)  |  IFPA  |
+| **_%_** | [App Ideas Collection](https://github.com/florinpop17/app-ideas)  |  florinpop17  |
 
 ------------
 
